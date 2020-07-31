@@ -42,25 +42,7 @@ Public Sub SplitNames()
         
             End If
 
-'          If .FirstName <> "" Then
-'          Let .User3 = .FirstName
-'
-'          If .LastName <> "" Then
-'          Let .User4 = .LastName
-'
-'
-'        .FirstName = .User4
-'        .LastName = .User3
-'        .Save
-         
-      'If you don't want to keep the values in the user fields for tracking purposes,
-      ' uncomment these two lines. I recommend keeping the names in the user fields
-      
-       ' .User3 = ""
-       ' .User4 = ""
-       ' .Save
-'        End If
-'        End If
+
      End With
         End If
 
