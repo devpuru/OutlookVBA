@@ -1,3 +1,5 @@
+'Format Phone numbers in Outlook to have Country codes. 
+'This is customised for India Region. Please modify the country codes relevant to your region
 
 Sub FormatPhoneNumber()
 Dim oFolder As MAPIFolder
