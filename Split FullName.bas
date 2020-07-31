@@ -1,3 +1,4 @@
+' Split FullName to First, Middle, Last Name
 
 
 Public Sub SplitNames()
